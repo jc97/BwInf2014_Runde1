@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Basic Express 2010
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "FairesFüllen", "FairesFüllen\FairesFüllen.vbproj", "{38B80E01-F299-463E-AC6A-89E2098074FD}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Mobile", "Mobile\Mobile.vbproj", "{FDF5D2A5-ACFC-426F-A0BD-3A65B5084AEC}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "BuffetLotterie", "BuffetLotterie\BuffetLotterie.vbproj", "{9FCF0D81-7D4B-4923-A211-E3A4F9347DB7}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Alphametiken", "Alphametiken\Alphametiken.vbproj", "{7786AC31-39F1-4AF6-8A04-7D0B9C8731D7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{38B80E01-F299-463E-AC6A-89E2098074FD}.Debug|x86.ActiveCfg = Debug|x86
+		{38B80E01-F299-463E-AC6A-89E2098074FD}.Debug|x86.Build.0 = Debug|x86
+		{38B80E01-F299-463E-AC6A-89E2098074FD}.Release|x86.ActiveCfg = Release|x86
+		{38B80E01-F299-463E-AC6A-89E2098074FD}.Release|x86.Build.0 = Release|x86
+		{FDF5D2A5-ACFC-426F-A0BD-3A65B5084AEC}.Debug|x86.ActiveCfg = Debug|x86
+		{FDF5D2A5-ACFC-426F-A0BD-3A65B5084AEC}.Debug|x86.Build.0 = Debug|x86
+		{FDF5D2A5-ACFC-426F-A0BD-3A65B5084AEC}.Release|x86.ActiveCfg = Release|x86
+		{FDF5D2A5-ACFC-426F-A0BD-3A65B5084AEC}.Release|x86.Build.0 = Release|x86
+		{9FCF0D81-7D4B-4923-A211-E3A4F9347DB7}.Debug|x86.ActiveCfg = Debug|x86
+		{9FCF0D81-7D4B-4923-A211-E3A4F9347DB7}.Debug|x86.Build.0 = Debug|x86
+		{9FCF0D81-7D4B-4923-A211-E3A4F9347DB7}.Release|x86.ActiveCfg = Release|x86
+		{9FCF0D81-7D4B-4923-A211-E3A4F9347DB7}.Release|x86.Build.0 = Release|x86
+		{7786AC31-39F1-4AF6-8A04-7D0B9C8731D7}.Debug|x86.ActiveCfg = Debug|x86
+		{7786AC31-39F1-4AF6-8A04-7D0B9C8731D7}.Debug|x86.Build.0 = Debug|x86
+		{7786AC31-39F1-4AF6-8A04-7D0B9C8731D7}.Release|x86.ActiveCfg = Release|x86
+		{7786AC31-39F1-4AF6-8A04-7D0B9C8731D7}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
